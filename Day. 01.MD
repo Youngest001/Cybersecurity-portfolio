@@ -36,7 +36,7 @@ Protect means implementing security measures to safeguard systems, networks, and
 
 **Example:** Using passwords, firewalls, antivirus software, and encryption.
 
-### 3. Detect
+ 3. Detect
 Detect means identifying cybersecurity threats, suspicious activities, and security incidents.
 
 Example: Detecting unusual login attempts or malware activities on a network.
@@ -46,17 +46,17 @@ Respond means taking appropriate action when a cybersecurity incident occurs.
 
 **Example:** Disconnecting an infected computer from the network and investigating the attack.
 
-### 5. Recover
+ 5. Recover
 Recover means restoring affected systems, data, and services after a cybersecurity incident.
 
-**Example:** Restoring lost company files using backup copies after a cyberattack.
+Example: Restoring lost company files using backup copies after a cyberattack.
 
-### 6. Govern
+6. Govern
 Govern means establishing cybersecurity policies, responsibilities, rules, and strategies to manage cybersecurity risks.
 
-**Example:** A company creates security policies that employees must follow to protect company information.
+Example: A company creates security policies that employees must follow to protect company information.
 
-## 4. Summary
+ 4. Summary
 
 Cybersecurity focuses on protecting digital systems, networks, and information from cyber threats.
 
