@@ -35,7 +35,7 @@ The crt.sh search showed identities including:
 - *.owasp.org
 
 ### 3.4 Username Footprint
-The username solomankins was searched using What's My Name. Results included Internet Archive and Rumble. The username was also manually verified on X as @solomankins.
+The username solomankins was searched using What's My Name. The search returned my X (Twitter) handle, @solomankins, along with other result associated with Internet Archive.
 
 ## 4. Analysis
 
