@@ -1,0 +1,27 @@
+# Data Breach Scenario Assignment
+
+## Scenario
+A company based in Nigeria processes data from people around the world. On Thursday at 9:00 AM, the company discovers that a laptop containing 2,000 customer records was stolen and was not encrypted.
+
+### 1. What regulatory standards apply?
+- **NDPA:** Applies to personal data processing in Nigeria.
+- **GDPR:** May apply if the company processes personal data of individuals in the EU.
+
+### 2. When must the regulator be notified?
+A reportable breach under GDPR must generally be reported within 72 hours where applicable.
+
+**Discovery time:** Thursday, 9:00 AM.
+
+**72-hour deadline:** Sunday, 9:00 AM.
+
+### 3. First Breach Notice
+
+We have discovered a security breach involving a stolen laptop.
+
+The laptop contained approximately 2,000 customer records.
+
+The device was not encrypted.
+
+We are investigating the incident and assessing the impact.
+
+We are taking steps to protect affected customers and notify relevant authorities.
